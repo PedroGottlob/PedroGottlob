@@ -2,18 +2,17 @@
   <img src="https://github.com/user-attachments/assets/406e20bc-5c14-4e06-9da1-dd0ab0b331c4" alt="Banner" width="600">
 </p>
 
-<div align="center">
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!&center=true&size=28" style="width: 60vw; max-width: 500px;">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28" style="width: 60vw; max-width: 500px;">
+  </a>
+</h1>
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!&center=true&size=28">
-  </a>
-</h1>
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28">
-  </a>
-</h1>
 
 
 ### Desenvolvedor Back-End, apaixonado por tecnologia viciado em solucionar problemas!

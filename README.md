@@ -6,9 +6,15 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!&center=true&size=28">
   </a>
 </h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28">
+  </a>
+</h1>
+
 
 ### Desenvolvedor Back-End, apaixonado por tecnologia viciado em solucionar problemas!
 

@@ -4,12 +4,12 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!&center=true&size=28" style="width: 60vw; max-width: 500px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!&center=true&size=28">
   </a>
 </h1>
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28" style="width: 60vw; max-width: 500px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28">
   </a>
 </h1>
 

@@ -4,7 +4,12 @@
 
 <div align="center">
 
-## Olá! Eu sou o Pedro Gottlob 🤙🏽💻
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Eu+sou+Pedro+Gottlob+🤙🏽💻&center=true&size=28">
+  </a>
+</h1>
+
 ### Desenvolvedor Back-End, apaixonado por tecnologia viciado em solucionar problemas!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrogottlob/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gottlob-bech/)
